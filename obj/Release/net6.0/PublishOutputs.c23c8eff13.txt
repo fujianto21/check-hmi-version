@@ -1,0 +1,6 @@
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Check_HMI_Version.exe
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Check_HMI_Version.dll
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Check_HMI_Version.deps.json
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Check_HMI_Version.runtimeconfig.json
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Check_HMI_Version.pdb
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Release\net6.0\publish\Newtonsoft.Json.dll

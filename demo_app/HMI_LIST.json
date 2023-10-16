@@ -1,0 +1,48 @@
+{
+    "hmi": [
+        {
+            "section": {
+                "name": "Section A",
+                "data": [
+                    {
+                        "hmi_name": "HMI01",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    },
+                    {
+                        "hmi_name": "HMI02",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    },
+                    {
+                        "hmi_name": "HMI03",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    }
+                ]
+            }
+        },
+        {
+            "section": {
+                "name": "Section B",
+                "data": [
+                    {
+                        "hmi_name": "HMI04",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    },
+                    {
+                        "hmi_name": "HMI05",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    },
+                    {
+                        "hmi_name": "HMI06",
+                        "hmi_ip": "192.168.1.21",
+                        "ini_file_path": "\\D$\\Fujianto\\code_csharp\\Check_HMI_Version\\INTOUCH.INI"
+                    }
+                ]
+            }
+        }
+    ]
+}

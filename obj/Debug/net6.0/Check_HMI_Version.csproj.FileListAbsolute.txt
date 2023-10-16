@@ -1,0 +1,17 @@
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.csproj.AssemblyReference.cache
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.AssemblyInfoInputs.cache
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.AssemblyInfo.cs
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.csproj.CoreCompileInputs.cache
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Check_HMI_Version.exe
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Check_HMI_Version.deps.json
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Check_HMI_Version.runtimeconfig.json
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Check_HMI_Version.dll
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Check_HMI_Version.pdb
+D:\Fujianto\code_csharp\Check_HMI_Version\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.csproj.CopyComplete
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.dll
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\refint\Check_HMI_Version.dll
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.pdb
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\Check_HMI_Version.genruntimeconfig.cache
+D:\Fujianto\code_csharp\Check_HMI_Version\obj\Debug\net6.0\ref\Check_HMI_Version.dll
