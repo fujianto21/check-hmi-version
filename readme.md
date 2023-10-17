@@ -1,5 +1,5 @@
 # Check HMI Version
-A simple application to check the HMI version on each client in the same network.
+A simple application to check the HMI version on every HMI client with InTouch Wonderware installed.
 
 ## Requirements
 - Dotnet SDK 6.0 (Tested on SDK 6.0.315)
@@ -55,6 +55,7 @@ A simple application to check the HMI version on each client in the same network
         ]
     }
    ```
+   **Note:** The INTOUCH.INI file is actually located in the Network Application Development (NAD) directory.
 2. If you want to run the application on a 32-bit platform, modify the Check_HMI_Version.csproj and add the code `<PlatformTarget>x86</PlatformTarget>`, for example:
    
      ```xml
