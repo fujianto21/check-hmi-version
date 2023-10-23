@@ -1,5 +1,5 @@
 # Check HMI Version
-A simple application to check the HMI version on every HMI client with InTouch Wonderware installed.
+A simple application to check the HMI version on every HMI client with Wonderware InTouch installed.
 
 ## Requirements
 - Dotnet SDK 6.0 (Tested on SDK 6.0.315)
